@@ -6,7 +6,7 @@
 
 This works similar to Select by Group in other applications
 
-by default the shortcut is set to Alt + Left Click
+by default the shortcut is set to Alt + Right Click
 
 ## Installation
 
