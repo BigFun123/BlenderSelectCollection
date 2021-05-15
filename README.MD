@@ -12,8 +12,8 @@ by default the shortcut is set to Alt + Right Click
 
 Download the SelectCollection.py file and import it as a plugin, or run it as a script.
 
-The function will appear in the Object Menu
+The function "Select Collection" will also appear in the Selection Menu
 
 ## Usage
 
-Alt+Click an object, and the collection it is part of will be selected
+Alt+RightClick an object to select all the objects within the collection
